@@ -1,0 +1,6 @@
+{
+  "name": "AutoPilot AI",
+  "description": "Autonomous Android AI agent powered by Gemini Vision-Action Loop, AccessibilityService, MediaProjection screen capture, and a floating overlay command console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

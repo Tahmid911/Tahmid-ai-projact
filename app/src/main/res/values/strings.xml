@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AutoPilot AI</string>
+    <string name="accessibility_service_label">AutoPilot AI Screen &amp; Gesture Agent</string>
+    <string name="accessibility_service_description">Allows AutoPilot AI to record Train Mode workflows, read UI node hierarchies, and dispatch autonomous tap, swipe, and text input actions.</string>
+    <string name="capture_notification_channel_name">Screen Capture Engine</string>
+    <string name="capture_notification_title">AutoPilot Screen Vision Active</string>
+    <string name="capture_notification_text">Ready to capture single-frame screenshots for the Gemini Vision-Action Loop.</string>
+    <string name="overlay_notification_channel_name">Floating Command Overlay</string>
+    <string name="overlay_notification_title">AutoPilot Floating Overlay Active</string>
+    <string name="overlay_notification_text">Tap the floating bubble over any app to issue an AI command.</string>
+    <string name="task_service_channel_name">Autonomous Task Engine</string>
+    <string name="task_service_notification_title">AutoPilot Task Daemon Active</string>
+    <string name="task_service_notification_idle">Monitoring TaskQueue in background — ready for autonomous execution.</string>
+    <string name="section_permissions_title">System Capabilities &amp; Permissions</string>
+    <string name="section_api_key_title">Gemini API Key &amp; Engine Settings</string>
+    <string name="section_command_title">Vision-Action Command Center</string>
+    <string name="btn_accessibility_settings">Accessibility Service</string>
+    <string name="btn_media_projection">MediaProjection Capture</string>
+    <string name="btn_floating_overlay">Floating Overlay Window</string>
+    <string name="btn_save_api_key">Save Key</string>
+    <string name="btn_clear_api_key">Clear</string>
+    <string name="hint_api_key">Enter Gemini API Key (saved to SharedPreferences)</string>
+    <string name="hint_command_input">Enter a high-level command (e.g., Open YouTube and play phonk music)…</string>
+    <string name="btn_execute_command">Run Agent</string>
+    <string name="btn_stop_agent">Stop Loop</string>
+    <string name="tab_console">Console</string>
+    <string name="tab_memory_tree">Memory Tree</string>
+    <string name="tab_task_queue">Task Mode</string>
+    <string name="tab_inspector">UI Nodes</string>
+    <string name="tab_setup">Setup</string>
+</resources>
